@@ -9,5 +9,5 @@
 ![Frame 3 (1)](https://user-images.githubusercontent.com/56452820/136336990-737650a8-8137-4cb3-869a-811f15b8ddce.png)
 
 
-Color Plalette :- https://colorhunt.co/palette/3db2ffffeddaffb830ff2442
+Color Plalette :- https://colorhunt.co/palette/3db2ffffeddaffb830ff2442   
 View Prototype :- https://www.figma.com/proto/58iKqUTcMd8HkY275RTjbc/Untitled?node-id=6%3A692&scaling=min-zoom&page-id=0%3A1
