@@ -5,4 +5,8 @@
 # FRAME 2
 ![Frame 2](https://user-images.githubusercontent.com/56452820/136333488-7ebf0d56-8c97-4184-b680-ffcfb3565197.png)
 
+# FRAME 3
+![Frame 3 (1)](https://user-images.githubusercontent.com/56452820/136336990-737650a8-8137-4cb3-869a-811f15b8ddce.png)
+
+
 Color Plalette :- https://colorhunt.co/palette/3db2ffffeddaffb830ff2442
